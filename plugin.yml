@@ -1,0 +1,9 @@
+name: PortalGun
+version: 1.0
+main: info.tregmine.portalgun.PortalGun
+author: TregmineDevTeam
+description: PortalGun Plugin
+commands:
+  portal:
+    description: Portal Gun Command
+    usage: /pg
